@@ -84,7 +84,7 @@
     grid-template-areas:
       'proffy image image'
       'button button texting';
-    gap: 60px;
+    gap: 86px;
   }
   .logo-container {
     grid-area: proffy;
